@@ -1,5 +1,5 @@
 <p float="left">
-    <img align="left" width="170px" src="./img/stairs.webp">
+    <img align="left" width="150px" src="./img/stairs.webp">
     <p float="left">
         <samp>
           about us.
