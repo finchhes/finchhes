@@ -14,7 +14,7 @@
           languages
           <br />
           &nbsp;fluent in html/css and intermediate in js/ts. <br />
-          &nbsp;learning python. also fluent in eng/esp.
+          &nbsp;also fluent in en/es and learning 粵.
           <br />
           <br />
         </samp>
