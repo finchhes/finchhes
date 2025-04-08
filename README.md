@@ -20,7 +20,7 @@
         </samp>
         <!-- hyperlinks -->
         <samp>
-          <a href="https://louvres.surge.sh">system website.</a>&nbsp; <a href="https://x.com/lesbrinas">public twitter.</a>&nbsp; <a href="https://pronouns.cc/@louvre">prn.cc.</a>
+          <a href="https://gyuu.ing">website.</a>
         </samp>
         <br>
         <br>
