@@ -13,16 +13,10 @@
         <samp>
           languages
           <br />
-          &nbsp;fluent in html/css and intermediate in js/ts. <br />
+          &nbsp;fluent in html/css, intermediate in js/ts, and learning lua. <br />
           &nbsp;also fluent in en/es and learning 粵.
           <br />
           <br />
         </samp>
-        <!-- hyperlinks -->
-        <samp>
-          <a href="https://gyuu.ing">website.</a>
-        </samp>
-        <br>
-        <br>
     </p>
 </p>
